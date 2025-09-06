@@ -28,12 +28,13 @@ It showcases my **projects, skills, and interests** in a clean and professional 
 
 ## Challenges & Learnings
 
-# While working on this project, I faced and solved these challenges:
+While working on this project, I faced and solved these challenges:
  - Making the layout responsive across different devices
  - Implementing a smooth dark/light mode using CSS variables
  - Adding form validation without a backend
 
-# These helped me strengthen my understanding of:
+These helped me strengthen my understanding of:
 - Responsive Design
 - Theme Switching
 - Writing clean JavaScript logic
+
